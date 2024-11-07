@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+pandas
+python-dotenv
+flask
+flask_jwt_extended
+marshmallow
+fastavro

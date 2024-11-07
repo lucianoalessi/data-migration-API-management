@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de configuración locales
+*.env
+
+# Dependencias de Python
+__pycache__/
+*.py[cod]
+*$py.class
